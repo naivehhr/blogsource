@@ -68,6 +68,6 @@ theme: indigo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:naivehhr/naivehhr.github.io.git
-  branch: master
+  type:  git
+  repo:   git@github.com:naivehhr/naivehhr.github.io.git
+  branch:  master
